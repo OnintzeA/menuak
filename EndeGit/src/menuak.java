@@ -8,7 +8,7 @@ public class menuak {
 		int elige = 0;
 		
 		do {
-			System.outsdsasaSAsAS
+			System.outsdsasaSAsASawefweefwefef
 			elige = Integer.parseInt(sc.nextLine());
 			switch(elige) {
 			case 1:
