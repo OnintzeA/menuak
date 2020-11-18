@@ -5,10 +5,10 @@ public class menuak {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
-		int elige = 0;
+		int elige;
 		
 		do {
-			System.outsdsasaSAsASawefweefwefef
+			System.out.println();
 			elige = Integer.parseInt(sc.nextLine());
 			switch(elige) {
 			case 1:
