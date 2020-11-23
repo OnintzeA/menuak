@@ -8,7 +8,7 @@ public class menuak {
 		int elige;
 		
 		do {
-			System.out.println();
+			System.out.println("vfgv");
 			elige = Integer.parseInt(sc.nextLine());
 			switch(elige) {
 			case 1:
